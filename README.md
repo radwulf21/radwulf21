@@ -8,6 +8,8 @@
 - 💼   Trabalhando como Estagiário de Business Intelligence no Banco Central do Brasil.
 - 🌱   Foco em desenvolvimento mobile e web.
 
+<br>
+
 ## Habilidades
 
 **Aplicações e Dados**
@@ -37,5 +39,7 @@
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646599-3569b000-7495-11eb-905b-bff8f4e0ccd3.png" alt="UML"/></code>
+
+<br>
 
 ## Contato 🌎

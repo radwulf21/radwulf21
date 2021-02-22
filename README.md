@@ -46,9 +46,7 @@
 
 <br>
 
-<a href="https://github.com/radwulf21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwulf21&theme=dracula&layout=compact&langs_count=4&custom_title=radwulf21%27s+Most+Used+Languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwulf21&theme=dracula&layout=compact&langs_count=4&custom_title=radwulf21%27s+Most+Used+Languages" />
 
 ## Contato 🌎
 

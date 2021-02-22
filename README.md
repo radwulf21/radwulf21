@@ -38,6 +38,10 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646599-3569b000-7495-11eb-905b-bff8f4e0ccd3.png" alt="UML"/></code>
 
+<a href="https://github.com/radwulf21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=radwulf21&theme=dracula&show_icons=true" />
+</a>
+
 ## Contato 🌎
 
 [![Linkedin: Raul Andrade](https://img.shields.io/badge/-raulandrade21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-andrade21/)](https://www.linkedin.com/in/raul-andrade21/)

@@ -16,7 +16,7 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645775-a9ef1f80-7492-11eb-80aa-54c4dc30b9f8.png" alt="Kotlin"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645827-d60aa080-7492-11eb-9f4e-9f92289dca3c.png" alt="Firebase"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646241-f6872a80-7493-11eb-9786-3b7b94d5b7a0.png" alt="PHP"/></code>
+<code><img height="32" width="32" src="https://user-images.githubusercontent.com/58220939/108646241-f6872a80-7493-11eb-9786-3b7b94d5b7a0.png" alt="PHP"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>

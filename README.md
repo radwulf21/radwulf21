@@ -19,6 +19,7 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646420-92189b00-7494-11eb-9374-ec17226e27a6.png" alt="PHP"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646801-cd679980-7495-11eb-8d13-fc052e5f66a1.png" alt="HTML5"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646787-be80e700-7495-11eb-8a48-78720b060ea3.png" alt="CSS"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646861-f6882a00-7495-11eb-94d0-0bafd0dcc9ac.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646192-cf305d80-7493-11eb-803e-e3df0a0ad8c9.png" alt="MySQL"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645712-7f9d6200-7492-11eb-956d-30912957293e.png" alt="Java"/></code>

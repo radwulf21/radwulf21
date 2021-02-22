@@ -44,6 +44,5 @@
 
 ## Contato 🌎
 
-[![Linkedin: Raul Andrade](https://img.shields.io/badge/-Raul Andrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-andrade21/)](https://www.linkedin.com/in/raul-andrade21/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Raul Andrade](https://img.shields.io/badge/-raul-andrade21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-andrade21/)](https://www.linkedin.com/in/raul-andrade21/)
+[![Gmail Badge](https://img.shields.io/badge/-raul.andrade21@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:raul.andrade21@email.com)

@@ -44,5 +44,5 @@
 
 ## Contato 🌎
 
-[![Linkedin: Raul Andrade](https://img.shields.io/badge/-raul-andrade21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-andrade21/)](https://www.linkedin.com/in/raul-andrade21/)
+[![Linkedin: Raul Andrade](https://img.shields.io/badge/-raulandrade21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-andrade21/)](https://www.linkedin.com/in/raul-andrade21/)
 [![Gmail Badge](https://img.shields.io/badge/-raul.andrade21@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:raul.andrade21@email.com)

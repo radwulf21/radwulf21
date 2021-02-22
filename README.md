@@ -1,4 +1,4 @@
-### Boas vindas! Prazer, me chamo Raul Andrade! 👋
+### Boas vindas! Prazer, me chamo Raul! 👋
 
 ## Sobre mim
 

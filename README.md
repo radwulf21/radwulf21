@@ -2,8 +2,6 @@
 
 ## Sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="250px" width="250px" align="right">
-
 - 💻   Desenvolvedor Android.
 - 🎓   Acadêmico em Sistemas de Informação atualmente cursando o 5° Período.
 - 🤔   Explorando o universo de Business Intelligence.

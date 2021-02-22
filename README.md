@@ -44,6 +44,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=radwulf21&theme=dracula&show_icons=true" />
 </a>
 
+<br>
+
+<a href="https://github.com/radwulf21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=radwulf21&theme=dracula&show_icons=true" />
+</a>
+
+<a href="https://github.com/radwulf21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=radwulf21&theme=dracula&show_icons=true" />
+</a>
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwulf21&theme=dracula&layout=compact&langs_count=4&custom_title=keys8410%27s+Most+Used+Languages" />
+
 ## Contato 🌎
 
 [![Linkedin: Raul Andrade](https://img.shields.io/badge/-raulandrade21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-andrade21/)](https://www.linkedin.com/in/raul-andrade21/)

@@ -1,6 +1,6 @@
 ### Boas vindas! Prazer, me chamo Raul Andrade! 👋
 
-### Sobre mim
+## Sobre mim
 
 - 💻   Desenvolvedor Android.
 - 🎓   Acadêmico em Sistemas de Informação atualmente cursando o 5° Período.
@@ -8,7 +8,7 @@
 - 💼   Trabalhando como Estagiário de Business Intelligence no Banco Central do Brasil.
 - 🌱   Foco em desenvolvimento mobile e web.
 
-### Habilidades
+## Habilidades
 
 **Aplicações e Dados**
 

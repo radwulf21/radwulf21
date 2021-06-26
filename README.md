@@ -3,9 +3,8 @@
 ## Sobre mim 💭
 
 - 💻   Desenvolvedor Android.
-- 🎓   Acadêmico em Sistemas de Informação atualmente cursando o 5° Período.
-- 🤔   Explorando o universo de Business Intelligence.
-- 💼   Trabalhando como Estagiário de Business Intelligence no Banco Central do Brasil.
+- 🎓   Acadêmico em Análise e Desenvolvimento de Sistemas atualmente cursando o 5° Período.
+- 💼   Trabalhando como Desenvolvedor Android no banco Santander.
 - 🌱   Foco em desenvolvimento mobile e web.
 
 ## Habilidades 🖥️

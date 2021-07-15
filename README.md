@@ -4,8 +4,8 @@
 
 - 💻   Desenvolvedor Android.
 - 🎓   Acadêmico em Análise e Desenvolvimento de Sistemas atualmente cursando o 5° Período.
-- 💼   Trabalhando como Desenvolvedor Android no banco Santander.
-- 🌱   Foco em desenvolvimento mobile.
+- 💼   Trabalhando como Desenvolvedor Android no banco Santander
+- 📱    Foco em desenvolvimento mobile.
 
 ## Habilidades 🖥️
 

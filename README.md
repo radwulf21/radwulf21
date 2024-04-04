@@ -3,8 +3,8 @@
 ## Sobre mim 💭
 
 - 💻   Desenvolvedor Android.
-- 🎓   Acadêmico em Análise e Desenvolvimento de Sistemas atualmente cursando o 5° Período.
-- 💼   Trabalhando como Desenvolvedor Android no Itaú Unibanco.
+- 🎓   Formado em Análise e Desenvolvimento de Sistemas.
+- 💼   Atuando como Desenvolvedor Android Pleno no Itaú Unibanco.
 - 🤖   Foco em desenvolvimento mobile.
 
 ## Habilidades 🖥️

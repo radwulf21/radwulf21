@@ -4,7 +4,7 @@
 
 - 💻   Desenvolvedor Android.
 - 🎓   Formado em Análise e Desenvolvimento de Sistemas.
-- 💼   Atuando como Desenvolvedor Android Pleno no Itaú Unibanco.
+- 💼   Atuando como Desenvolvedor Android no Itaú Unibanco.
 - 🤖   Foco em desenvolvimento mobile.
 
 ## Habilidades 🖥️
